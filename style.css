@@ -11,7 +11,7 @@ h3
 canvas {
     animation-name: example;
     animation-duration:4s;
-    aimation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
 @keyframes example {
